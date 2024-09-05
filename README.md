@@ -4,7 +4,7 @@
 
 ### I'm Alice Di Rico 🌟
 ### <img src="https://img.freepik.com/premium-vector/young-beautiful-woman-using-laptop-computer-pointing-up-sitting-lotus-pose-with-crossed-legs_126609-830.jpg?w=1380" width="150" />
-### [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/alice-di-rico-67407b168) 
+### [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alice-di-rico-67407b168)
 ### *Front-End Developer | React Enthusiast | Proud catgirl*
 
 
